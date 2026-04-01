@@ -46,3 +46,6 @@ Business insight storytelling
 
 **![Dashboard](/Screenshot%202026-04-01%20061529.png)**
 
+**![Dashboard](/Screenshot%202026-04-01%20062412.png)**
+
+**![Dashboard](/Screenshot%202026-04-01%20062434.png)**
