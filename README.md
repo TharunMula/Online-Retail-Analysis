@@ -1,4 +1,5 @@
 **Online Retail Sales Analytics – End‑to‑End Data Project**
+
 **📌 Project Overview**
 This project analyses online retail sales data to uncover insights about revenue trends, customer behaviour, product performance, and return patterns.
 The workflow covers data cleaning → SQL analysis → Power BI dashboarding.
@@ -42,3 +43,5 @@ DAX calculations
 Dashboard design
 
 Business insight storytelling
+
+
